@@ -5,6 +5,6 @@ package com.email.notification;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Webhook Test");
+        System.out.println("Testing failure")
     }
 }
